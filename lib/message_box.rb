@@ -1,5 +1,3 @@
-
-
 class MessageBox
 
   module Type

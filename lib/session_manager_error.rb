@@ -1,0 +1,2 @@
+class SessionManagerError < StandardError
+end
